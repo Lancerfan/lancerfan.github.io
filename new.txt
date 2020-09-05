@@ -1,0 +1,4 @@
+teszt
+ez is
+
+szoveg a fajlba
